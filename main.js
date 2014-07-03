@@ -26,7 +26,7 @@ define(function (require, exports, module) {
 			//default don't do anything	
 		}
 		else if(font === fonts[1][1]){
-			$('body').append("<link href='http://fonts.googleapis.com/css?family=SimSun' rel='stylesheet' type='text/css'>");
+			//$('body').append("<link href='http://fonts.googleapis.com/css?family=SimSun' rel='stylesheet' type='text/css'>");
 			$("#editor-holder").addClass("code-font-simsun");
 		}
 	}	
