@@ -1,4 +1,5 @@
 .code-font-simsun .CodeMirror{
-	font-family: 'SimSun', sans-serif !important;
+	font-family: 'SimSun';
 	letter-spacing:1px;
+	font-size:10pt;
 }
