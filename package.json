@@ -1,9 +1,9 @@
 {
-    "name": "Brackets-simsun",
-    "title": "Brackets-宋体",
+    "name": "brackets-simsun",
+    "title": "brackets-宋体",
     "description": "“Brackets-宋体”可以使Brackets代码编辑器窗口选择“宋体”显示。",
     "homepage": "https://code.google.com/p/brackets-simsun/",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "bmqy",
     "files": [
         "main.js",
